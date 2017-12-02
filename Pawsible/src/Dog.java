@@ -2,7 +2,6 @@ public class Dog {
 	public enum Allergy{
 		Grass,
 		Chicken,
-		PalmTree,
 		Beef,
 		Pollen,
 		Pork;
